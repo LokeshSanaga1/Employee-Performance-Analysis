@@ -31,7 +31,7 @@ Employee performance depends on factors like demographics, job roles, compensati
 
 ## Installation
 ```bash
-git clone https://github.com/your-repo/employee-performance.git
+git clone https://github.com/LokeshSanaga1/Employee-Performance-Analysis.git
 cd employee-performance
 pip install -r requirements.txt
 ```
