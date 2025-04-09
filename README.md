@@ -48,9 +48,10 @@ xgboost
 
 ## Usage
 ```bash
-# Train model
-python train_model.py
+# Open the notebook
+jupyter notebook Employee_Performance_Analysis.ipynb
 ```
+Run all cells step-by-step for data preprocessing, visualization, model building, and evaluation.   
 Evaluate using classification metrics (accuracy, F1-score, ROC-AUC).
 
 ## Results
